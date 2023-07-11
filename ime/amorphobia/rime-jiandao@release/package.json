@@ -1,1 +1,1 @@
-{"name":"@/amorphobia/rime-jiandao@release","version":"0.7.4","files":["jiandao.prism.bin","jiandao.reverse.bin","jiandao.schema.yaml","jiandao.table.bin"],"license":"AGPL-3.0"}
+{"name":"@/amorphobia/rime-jiandao@release","version":"0.7.4","files":["jiandao.prism.bin","jiandao.schema.yaml"],"license":"AGPL-3.0"}

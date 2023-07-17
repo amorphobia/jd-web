@@ -1,3 +1,13 @@
+# 🌟️星空键道输入法在线版
+
+> 由 [LibreService/my_rime](https://github.com/LibreService/my_rime) 强力驱动
+
+[仓库](https://github.com/amorphobia/rime-jiandao)
+
+以下是 LibreService/my_rime 原 README
+
+---
+
 # My RIME 梧桐输入法
 ![](https://img.shields.io/github/license/LibreService/my_rime)
 
